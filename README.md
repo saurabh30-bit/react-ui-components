@@ -38,7 +38,7 @@ function App() {
 
 - [x] Button
 - [x] Card
-- [ ] Modal
+- [x] Modal
 - [ ] Dropdown
 - [ ] Toast / Notification
 - [ ] Tabs
