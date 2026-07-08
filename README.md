@@ -41,7 +41,7 @@ function App() {
 - [x] Modal
 - [ ] Dropdown
 - [ ] Toast / Notification
-- [ ] Tabs
+- [x] Tabs
 
 ---
 
